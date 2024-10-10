@@ -1,0 +1,5 @@
+.gitignore se encarga de llevar un control de que va a ignorar git
+
+para instalar express
+npm install express
+o npm i express
