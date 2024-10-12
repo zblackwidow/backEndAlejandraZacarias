@@ -3,3 +3,10 @@
 para instalar express
 npm install express
 o npm i express
+
+en mongo la informacion se guarda en esquemas 
+
+/ todas las cosas que hacemos con la base de datos son asincronas
+
+
+un endpoint es una ruta que se puede acceder a desde un navegador
